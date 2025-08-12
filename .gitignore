@@ -20,11 +20,10 @@ env/
 # Operating System files
 .DS_Store
 Thumbs.db
+secret.txt
 
 # Other files
 .coverage
 .tox/
 .eggs/
 .env
-
-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
